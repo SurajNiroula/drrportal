@@ -1,4 +1,6 @@
 # drrportal
+This is an college project done by creating the databse from the disasterportal.This includes the data scraped from http://drrportal.gov.np
+from where the database is normalised. The data thus collected are gathered and cleaned before using in database.
 requirements
 asgiref==3.5.0
 Django==2.1.15
